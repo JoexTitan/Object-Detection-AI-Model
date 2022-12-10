@@ -9,32 +9,32 @@ The following AI model aims to identify objects in the video and predict the tra
 ## Model Performance on Highway Traffic
 
 <p>
-  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/highway_traffic.gif?raw=true' width='1000' height='600'/></p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/highway_traffic.gif?raw=true' width='850' height='500'/></p>
 
 
 ## Model Performance on Figure Skaters
 
 <p>
-  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/skating_detection.gif?raw=true' width='1000' height='600'/></p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/skating_detection.gif?raw=true' width='850' height='500'/></p>
 
 
 ## Model Performance on Mall CCTV Camera
 
 <p>
-  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/mall_detection.gif?raw=true' width='1000' height='600'/></p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/mall_detection.gif?raw=true' width='850' height='500'/></p>
 
 
 ## Model Performance on Soccer Players
 
 <p>
-  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/soccer_detection.gif?raw=true' width='600' height='800'/></p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/soccer_detection.gif?raw=true' width='500' height='700'/></p>
 
 
 
 ## Model Performance on a Tennis Player
 
 <p>
-  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/tennis_detection.gif?raw=true' width='600' height='800'/></p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/tennis_detection.gif?raw=true' width='500' height='700'/></p>
 
 
 ## Deploying your AI Model
