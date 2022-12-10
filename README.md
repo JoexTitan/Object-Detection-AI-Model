@@ -4,7 +4,7 @@
 
 # Object-Detection-AI-Model
 
-The following AI model aims to identify objects in the video and predict the trajecory that they are moving in. The image processing algorithm will detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
+The following machine learning model aims to identify objects in the video and predict the trajecory that they are moving in. The image processing algorithm will detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
 
 ## Model Performance on Highway Traffic
 
