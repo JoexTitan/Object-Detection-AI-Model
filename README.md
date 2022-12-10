@@ -4,36 +4,40 @@
 
 # Object-Detection-AI-Model
 
-The following machine learning model aims to identify objects in the video and predict the trajecory that they are moving in. The image processing algorithm will detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
+The following AI model aims to identify objects in the video and predict the trajecory that they are moving in. The image processing algorithm will detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
 
-## ML Performance on Highway Traffic
+## Model Performance on Highway Traffic
 
-![App Screenshot](https://previews.dropbox.com/p/thumb/ABu8qFqlOXYauRiC4smlbhkwnEt_Yol5gQU1xVMHsFv5OcoKNsoTy-pCqynSSclWcxc2m0pqInQN2scV-9VNCDxHNnwazec1V4oDeKU1037tLyhth7XoZOGt2vZYPg2aUKNVIFM_R24jG2yaneF3Bc-NZd4x3o65GJ6U2jWx6vgLNTwnjOaiTDjyxBlj46cR3V4mAD6I2BbOITduVKbnKiL5h169AmIhmSCAqAyYlHcXJLUXoaKcl6cZynA1iPaOMBNZN0GjW6mJGv9I9pLAqlY_eOfBjSn90q_pfDVxxkw1XNFjxjm-akSc5q0KjSmIPs9kQstT_a-9TdLzrANPI1VEfzPHRfJzD_He0Om0dtU80WsFapywFVor_v1Z7XHJREI/p.jpeg)
-
-
-
-## ML Performance on Mall CCTV Camera
-
-![App Screenshot](https://previews.dropbox.com/p/thumb/ABu8qFqlOXYauRiC4smlbhkwnEt_Yol5gQU1xVMHsFv5OcoKNsoTy-pCqynSSclWcxc2m0pqInQN2scV-9VNCDxHNnwazec1V4oDeKU1037tLyhth7XoZOGt2vZYPg2aUKNVIFM_R24jG2yaneF3Bc-NZd4x3o65GJ6U2jWx6vgLNTwnjOaiTDjyxBlj46cR3V4mAD6I2BbOITduVKbnKiL5h169AmIhmSCAqAyYlHcXJLUXoaKcl6cZynA1iPaOMBNZN0GjW6mJGv9I9pLAqlY_eOfBjSn90q_pfDVxxkw1XNFjxjm-akSc5q0KjSmIPs9kQstT_a-9TdLzrANPI1VEfzPHRfJzD_He0Om0dtU80WsFapywFVor_v1Z7XHJREI/p.jpeg)
+<p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/highway_traffic.gif?raw=true' width='1000' height='600'/></p>
 
 
-## ML Performance on Soccer Players
+## Model Performance on Figure Skaters
 
-![App Screenshot](https://previews.dropbox.com/p/thumb/ABu8qFqlOXYauRiC4smlbhkwnEt_Yol5gQU1xVMHsFv5OcoKNsoTy-pCqynSSclWcxc2m0pqInQN2scV-9VNCDxHNnwazec1V4oDeKU1037tLyhth7XoZOGt2vZYPg2aUKNVIFM_R24jG2yaneF3Bc-NZd4x3o65GJ6U2jWx6vgLNTwnjOaiTDjyxBlj46cR3V4mAD6I2BbOITduVKbnKiL5h169AmIhmSCAqAyYlHcXJLUXoaKcl6cZynA1iPaOMBNZN0GjW6mJGv9I9pLAqlY_eOfBjSn90q_pfDVxxkw1XNFjxjm-akSc5q0KjSmIPs9kQstT_a-9TdLzrANPI1VEfzPHRfJzD_He0Om0dtU80WsFapywFVor_v1Z7XHJREI/p.jpeg)
-
-
-## ML Performance on a Tennis Player
-
-![App Screenshot](https://previews.dropbox.com/p/thumb/ABu8qFqlOXYauRiC4smlbhkwnEt_Yol5gQU1xVMHsFv5OcoKNsoTy-pCqynSSclWcxc2m0pqInQN2scV-9VNCDxHNnwazec1V4oDeKU1037tLyhth7XoZOGt2vZYPg2aUKNVIFM_R24jG2yaneF3Bc-NZd4x3o65GJ6U2jWx6vgLNTwnjOaiTDjyxBlj46cR3V4mAD6I2BbOITduVKbnKiL5h169AmIhmSCAqAyYlHcXJLUXoaKcl6cZynA1iPaOMBNZN0GjW6mJGv9I9pLAqlY_eOfBjSn90q_pfDVxxkw1XNFjxjm-akSc5q0KjSmIPs9kQstT_a-9TdLzrANPI1VEfzPHRfJzD_He0Om0dtU80WsFapywFVor_v1Z7XHJREI/p.jpeg)
+<p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/skating_detection.gif?raw=true' width='1000' height='600'/></p>
 
 
+## Model Performance on Mall CCTV Camera
 
-## ML Performance on Figure Skaters
+<p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/mall_detection.gif?raw=true' width='1000' height='600'/></p>
 
-![App Screenshot](https://previews.dropbox.com/p/thumb/ABu8qFqlOXYauRiC4smlbhkwnEt_Yol5gQU1xVMHsFv5OcoKNsoTy-pCqynSSclWcxc2m0pqInQN2scV-9VNCDxHNnwazec1V4oDeKU1037tLyhth7XoZOGt2vZYPg2aUKNVIFM_R24jG2yaneF3Bc-NZd4x3o65GJ6U2jWx6vgLNTwnjOaiTDjyxBlj46cR3V4mAD6I2BbOITduVKbnKiL5h169AmIhmSCAqAyYlHcXJLUXoaKcl6cZynA1iPaOMBNZN0GjW6mJGv9I9pLAqlY_eOfBjSn90q_pfDVxxkw1XNFjxjm-akSc5q0KjSmIPs9kQstT_a-9TdLzrANPI1VEfzPHRfJzD_He0Om0dtU80WsFapywFVor_v1Z7XHJREI/p.jpeg)
+
+## Model Performance on Soccer Players
+
+<p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/soccer_detection.gif?raw=true' width='600' height='800'/></p>
 
 
-## Deploying the ML Model
+
+## Model Performance on a Tennis Player
+
+<p>
+  <img alight='right' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/tennis_detection.gif?raw=true' width='600' height='800'/></p>
+
+
+## Deploying your AI Model
 
 
 Ensure that you have the following for both GPU and CPU Installations: 
