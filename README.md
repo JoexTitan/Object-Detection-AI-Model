@@ -59,14 +59,13 @@ Then activate your environment
   conda activate <Name_of_the_Project>
 ```
 
-Check your compiler driver using
+Check which drivers you are using
 
 ```bash
   nvcc --version
 ```
 
-
-You should see the following
+You should be seeing the following
 
 ```bash
   nvcc: NVIDIA (R) Cuda compiler driver
@@ -75,7 +74,7 @@ You should see the following
   Cuda compilation tools, release 10.1, V10.1.105
 ```
 
-Make sure conda is saved in your Environment Variables
+Make sure conda is saved in your Environment Variables (PATH)
 
 ```bash
    C:\Users\Daniil_Zhilyayev\Anaconda3\Scripts
@@ -88,10 +87,10 @@ Make sure conda is saved in your Environment Variables
 You are all set, here is a few commands for you to get started:
 
 ```bash
-  python detect_track_trajectory.py --source videos/<File_Name01>.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --device 0 --view-img
+  python motioned_detection.py --source videos/yolor/F1_CARS_DETECTION.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --device 0 --view-img
 
-  python detect_track_trajectory.py --source videos/<File_Name02>.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.50 --img-size 1280 --device 0 --view-img
+  python motioned_detection.py --source videos/yolor/F2_MALL_DETECTION.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.50 --img-size 1280 --device 0 --view-img
 
-  python detect_track_trajectory.py --source videos/<File_Name03>.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.75 --img-size 1280 --device 0 --view-img
+  python motioned_detection.py --source videos/yolor/F5_SKATING_DETECTION.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.75 --img-size 1280 --device 0 --view-img
 ```
 
