@@ -2,7 +2,7 @@
 ![Logo](https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2018/08/shutterstock_668209624-1.jpg)
 
 
-# Object-Detection-AI-Model
+# Object-Detection-Model
 
 The following machine learning model aims to identify objects in the video and predict the trajecory that they are moving in. The image processing algorithm will detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
 
