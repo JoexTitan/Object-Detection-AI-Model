@@ -6,10 +6,19 @@
 
 The following machine learning model aims to identify objects in the video and predict the trajecory that they are moving in. The image processing algorithm will detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
 
-## Model Performance on Highway Traffic
+## Deployment Instructions
+
+Ensure that you have the following for both GPU and CPU Installations: 
+
+- PyCharm Community Edition or any other IDE of your choice
+- Anaconda (https://www.anaconda.com/products/distribution)
+- NVIDIA Drivers (https://www.nvidia.com/Download/index.aspx)
+- CUDA Toolkit (https://developer.nvidia.com/cuda-downloads)
+
+## Model Performance on Mall CCTV Camera
 
 <p>
-  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/highway_traffic.gif?raw=true' width='850' height='500'/></p>
+  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/mall_detection.gif?raw=true' width='850' height='500'/></p>
 
 
 ## Model Performance on Figure Skaters
@@ -18,34 +27,22 @@ The following machine learning model aims to identify objects in the video and p
   <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/skating_detection.gif?raw=true' width='850' height='500'/></p>
 
 
-## Model Performance on Mall CCTV Camera
+## Model Performance on Highway Traffic
 
 <p>
-  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/mall_detection.gif?raw=true' width='850' height='500'/></p>
-
+  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/highway_traffic.gif?raw=true' width='850' height='500'/></p>
 
 ## Model Performance on Soccer Players
 
 <p>
-  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/soccer_detection.gif?raw=true' width='600' height='800'/></p>
+  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/soccer_detection.gif?raw=true' width='650' height='800'/></p>
 
 
 
 ## Model Performance on a Tennis Player
 
 <p>
-  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/tennis_detection.gif?raw=true' width='600' height='800'/></p>
-
-
-## Deploying your AI Model
-
-
-Ensure that you have the following for both GPU and CPU Installations: 
-
-- PyCharm Community Edition or any other IDE of your choice
-- Anaconda (https://www.anaconda.com/products/distribution)
-- NVIDIA Drivers (https://www.nvidia.com/Download/index.aspx)
-- CUDA Toolkit (https://developer.nvidia.com/cuda-downloads)
+  <img alight='center' alt='gif' src='https://github.com/JoexTitan/Object-Detection-AI-Model/blob/main/yolor/tennis_detection.gif?raw=true' width='650' height='800'/></p>
 
 
 GPU Installation, set-up a virtual environment with the following command
@@ -93,4 +90,6 @@ You are all set, here is a few commands for you to get started:
 
   python motioned_detection.py --source videos/yolor/F5_SKATING_DETECTION.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.75 --img-size 1280 --device 0 --view-img
 ```
+
+
 
