@@ -1,5 +1,5 @@
 
-![Logo](https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2018/08/shutterstock_668209624-1.jpg)
+![Logo](https://raw.githubusercontent.com/JoexTitan/Object-Detection-Model/main/utils/ObjectDetection.jpg)
 
 
 # Object-Detection-Model
